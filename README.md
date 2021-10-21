@@ -2,6 +2,8 @@
 
 # Hi there 👋
 
+My name is Parviz Kazimov. You can also call me PiKa. I am 35 years old and from Azerbaijan, now living in the Netherlands. Learning coding, especially web-development. You can see me as a future full-stack developer.
+
 <!--
 **PiKa-86/PiKa-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
