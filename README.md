@@ -1,6 +1,6 @@
-<img src="https://github.com/PiKa-86/PiKa-86/blob/main/welcome.gif" width = 100%; height = 80%>
+<img src="https://github.com/PiKa-86/PiKa-86/blob/main/welcome.gif" width = 100%; height = auto%>
 
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **PiKa-86/PiKa-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
