@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/PiKa-86/<PiKa-86>/<main>/welcome.gif "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/PiKa-86/PiKa-86/<main>/welcome.gif "Header")](https://some-url.dev/)
 
 ### Hi there 👋
 
