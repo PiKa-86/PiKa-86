@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/PiKa-86/PiKa-86/main/welcome.gif "Header" width = 100%)
+<img src="https://github.com/PiKa-86/PiKa-86/blob/main/welcome.gif" width = 100%; height = auto>
 
 ### Hi there 👋
 
