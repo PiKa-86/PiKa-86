@@ -9,9 +9,14 @@ My name is Parviz Kazimov. You can also call me PiKa. I am 35 years old and from
 
 ## GitHub Stats
 
-[![Parviz's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiKa-86&show_icons=true&theme=tokyonight)](https://github.com/PiKa-86/github-readme-stats)
+[![Parviz's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiKa-86&show_icons=true&theme=tokyonight)](https://github.com/PiKa-86/github-readme-stats) 
+
 
 [![Github Badge](https://img.shields.io/badge/Parviz-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"&link=https://github.com/PiKa-86)](https://github.com/PiKa-86)
+
+---
+![Profile views](https://gpvc.arturio.dev/PiKa-86)
+
 <!--
 **PiKa-86/PiKa-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
