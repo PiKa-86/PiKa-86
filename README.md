@@ -1,4 +1,4 @@
-<img src="https://github.com/PiKa-86/PiKa-86/blob/main/welcome.gif" width = 100%; height = "200px">
+<img src="https://github.com/PiKa-86/PiKa-86/blob/main/welcome.gif" width = 100%; height = "250px">
 
 # Hi there 👋
 
